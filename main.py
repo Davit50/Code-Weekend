@@ -2,7 +2,7 @@ import json
 import math
 import numpy as np
 
-# for test_case_numbers in range(1, 2):
+for test_case_numbers in range(26, 51):
     print(test_case_numbers)
     test_case_number = str(test_case_numbers)
     while len(test_case_number) < 3:
